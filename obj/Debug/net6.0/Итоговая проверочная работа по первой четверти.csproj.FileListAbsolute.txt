@@ -1,0 +1,15 @@
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\bin\Debug\net6.0\Итоговая проверочная работа по первой четверти.exe
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\bin\Debug\net6.0\Итоговая проверочная работа по первой четверти.deps.json
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\bin\Debug\net6.0\Итоговая проверочная работа по первой четверти.runtimeconfig.json
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\bin\Debug\net6.0\Итоговая проверочная работа по первой четверти.dll
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\bin\Debug\net6.0\Итоговая проверочная работа по первой четверти.pdb
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\obj\Debug\net6.0\Итоговая проверочная работа по первой четверти.csproj.AssemblyReference.cache
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\obj\Debug\net6.0\Итоговая проверочная работа по первой четверти.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\obj\Debug\net6.0\Итоговая проверочная работа по первой четверти.AssemblyInfoInputs.cache
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\obj\Debug\net6.0\Итоговая проверочная работа по первой четверти.AssemblyInfo.cs
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\obj\Debug\net6.0\Итоговая проверочная работа по первой четверти.csproj.CoreCompileInputs.cache
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\obj\Debug\net6.0\Итоговая проверочная работа по первой четверти.dll
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\obj\Debug\net6.0\refint\Итоговая проверочная работа по первой четверти.dll
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\obj\Debug\net6.0\Итоговая проверочная работа по первой четверти.pdb
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\obj\Debug\net6.0\Итоговая проверочная работа по первой четверти.genruntimeconfig.cache
+C:\Users\Heathrow\Desktop\Итоговая проверочная работа по первой четверти\obj\Debug\net6.0\ref\Итоговая проверочная работа по первой четверти.dll
